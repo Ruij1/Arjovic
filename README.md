@@ -39,7 +39,11 @@ Replaced manual communication with automated workflow
 
 ## Additional Resources
 Live Site: https://arjovic.com.mx
-Screenshots: (add images in an /images folder if you want)
+Screenshots: <img width="1439" height="813" alt="Screen Shot 2026-01-09 at 5 29 54 p m" src="https://github.com/user-attachments/assets/2d1df69a-f44c-4e6b-aa3f-9aed8921621a" />
+<img width="1440" height="812" alt="Screen Shot 2026-01-09 at 5 30 23 p m" src="https://github.com/user-attachments/assets/c62ddd46-fdbe-42c0-87eb-5274eddf9b27" />
+<img width="1440" height="814" alt="Screen Shot 2026-01-09 at 5 30 47 p m" src="https://github.com/user-attachments/assets/7a0a035f-bb94-4306-b521-66efda9f773c" />
+
+
 
 ## Code Availability
 The full source code is available in this repository for demonstration purposes.
